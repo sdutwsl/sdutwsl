@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sdutwsl/sdutwsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 宇宙级咸🐟
+- 🌱 长期隐身在各种奇怪的组织中
+- 🚀 啥语言都不会
+- 🙏 老希望工程了
+- 🚮 也是一名青结工
+
+争取每天commit!
