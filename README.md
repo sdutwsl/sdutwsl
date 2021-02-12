@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 咸🐟菜🐓
-- 🌱 长期隐身在各种奇怪的组织中
-- 🚀 啥语言都不会
-- 🙏 老希望工程了
-- 🚮 也是一名青结工
-
-争取每天commit!
+- 🙋‍♂️ Front End Developer
+- 🌐 Building Ours Internet
