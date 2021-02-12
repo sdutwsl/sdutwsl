@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🙋‍♂️ Front End Developer
-- 🌐 Building Ours Internet
+- 🙋‍♂️ Front End Developer / 前端开发者
+- 🌐 Building Ours Internet / 建设我们的互联网
+- 👮‍♂️ Rented House Network Administrator / 出租房网管
