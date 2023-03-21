@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on FrontEnd
+- 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning Rust\Elixir\ES
